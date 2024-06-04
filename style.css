@@ -1,0 +1,23 @@
+h2{
+    color:orange;
+}
+body{
+    background-color: #305050;
+    color: white;
+    font-family: Roboto;
+    text-align: center;
+}
+header{
+    border-bottom: 1px solid grey;
+}
+footer{
+    border-top: 1px solid grey;
+}
+
+#nome-usuario{
+    font-weight: bold;
+}
+
+.text-ingles{
+    font-style: italic;
+}
